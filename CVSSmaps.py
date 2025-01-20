@@ -1,0 +1,11 @@
+avMap = {'N': 'Network','A': 'Adjacent','L': 'Local','P': 'Physical'}
+acMap = {'L': 'Low','H': 'High'}
+prMap = {'N': 'None','L': 'Low','H': 'High'}
+uiMap = {'N': 'None','R': 'Required'}
+scopeMap = {'U': 'Unchanged','C': 'Changed'}
+confMap = {'H': 'High', 'L': 'Low','N': 'None'}
+intMap = {'H': 'High', 'L': 'Low', 'N': 'None'}
+availMap = {'H': 'High', 'L': 'Low', 'N': 'None'}
+expMap = {'X': 'Not Defined', 'H': 'High', 'F': 'Functional', 'P': 'Proof-of-Concept', 'U': 'Unproven'}
+rlMap = {'X': 'Not Defined', 'U': 'Unavailable', 'W': 'Workaround', 'T': 'Temporary Fix', 'O': 'Official Fix'}
+rcMap = {'X': 'Not Defined', 'C': 'Confirmed', 'R': 'Reasonable', 'U': 'Unknown'}
